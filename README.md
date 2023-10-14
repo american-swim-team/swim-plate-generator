@@ -11,3 +11,6 @@ Open Content Manager and go to the Content tab, click on the car you'd like to m
 
 ## Models
 These are 3D models that the Content Manager paint shop can detect. If a car doesnt have license plates or it has incompatible license plates you can use 3D modeling software to add these plates to the car in question.
+
+## Bugs
+Changing the text or place can sometimes freeze, swap to a different type of plate (swim us instead of swim eu) then try again. If anyone finds the solution to the bug please open a pull request or reach out.
