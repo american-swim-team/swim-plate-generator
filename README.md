@@ -14,3 +14,5 @@ These are 3D models that the Content Manager paint shop can detect. If a car doe
 
 ## Bugs
 Changing the text or place can sometimes freeze, swap to a different type of plate (swim us instead of swim eu) then try again. If anyone finds the solution to the bug please open a pull request or reach out.
+
+![Logo](https://raw.githubusercontent.com/american-swim-team/swim-plate-generator/master/swim/plates/swim%20US%20og.png)
